@@ -1,0 +1,8 @@
+To  make  any  changes  for  checking  the  output  :
+ 
+  ---->  Goto  cell  2.
+  
+  ---->  There  in  imread  change  the  number  by  giving  any  number  from 
+         (1-9)  ,  only  give  the  number.
+  
+  ---->  Then  click  on  run  all.
